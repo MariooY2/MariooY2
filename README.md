@@ -7,8 +7,5 @@
 
 ### Socials
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/marioyoussef936/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marioyoussef936) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MarioY00) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
